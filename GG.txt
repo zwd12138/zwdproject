@@ -111,3 +111,4 @@ begin
 end;
 update scott.emp set sal = 10 where deptno=30;
 
+长风破浪会有时，直挂云帆济沧海！
