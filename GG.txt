@@ -1,4 +1,3 @@
-
 declare
 v_dept scott.dept%rowtype;
 cursor c_dept is select * from scott.dept;
@@ -25,7 +24,6 @@ begin
    dbms_output.put_line(v_dept_table(i).dname);
   end loop;
 end;
-
 declare
   cursor dept_cursor(dno number) is select * from scott.dept d where d.deptno = dno;
   v_dept scott.dept%rowtype;
@@ -109,3 +107,4 @@ begin
     end case;
 end;
 update scott.emp set sal = 10 where deptno=30;
+
