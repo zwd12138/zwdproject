@@ -1,5 +1,6 @@
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGJJJJJJJJJJJJ
 asfksfjkaghjkl ghaklj klafj ljlkj
+¡ı∫∆Ω‹
 
 declare
 v_dept scott.dept%rowtype;
