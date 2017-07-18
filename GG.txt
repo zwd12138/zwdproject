@@ -1,7 +1,7 @@
 GGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGGJJJJJJJJJJJJ
 asfksfjkaghjkl ghaklj klafj ljlkj
 ¡ı∫∆Ω‹
-
+xxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 declare
 v_dept scott.dept%rowtype;
 cursor c_dept is select * from scott.dept;
